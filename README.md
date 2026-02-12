@@ -1,4 +1,4 @@
-# 🎮 Xbox Sales Dashboard
+# 🎮 Xbox Game Pass Subscriptions Sales Dashboard
 
 Projeto desenvolvido em Excel para análise de vendas de assinaturas Xbox.
 
@@ -60,7 +60,7 @@ Utilizando as funções:
 
 ##  Como Reproduzir
 
-1. Baixe o arquivo `Xbox_sales_dashboard.xlsx`
+1. Baixe o arquivo `Planilha de Vendas.xlsx`
 2. Abra no Excel
 3. Interaja com o gráfico e as informações do topo utilizando os botões de Subscription Type na lateral esquerda do dashboard, selecionando qual tipo de assinatura do Xbox deseja visualizar as vendas, Annual, Monthly ou Quartely (anual, mensal ou trimestral).
 
